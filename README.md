@@ -6,6 +6,9 @@
 | - | - |
 | ![](media/ss1.png) | ![](media/ss2.png) |
 
+> [!IMPORTANT]
+> The current version of Inkdrop hides front-matter by default, so this plugin is no longer needed.
+
 > [!WARNING]
 > This plugin has been found to work only when used with a plugin that replaces note lists, such as `thumbnail-list`.
 
